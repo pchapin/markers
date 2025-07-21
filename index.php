@@ -26,8 +26,10 @@
   </div>
 </div>
 
-<p>This is a placeholder!</p>
-
+<p>This page contains a list of all the roadside historical markers in Vermont that I have
+  personally visited. The Vermont Agency of Commerce and Community Development maintains a very
+  nice <a href="https://accd.vermont.gov/historic-preservation/roadside-markers">list of these
+    markers</a>. It is my intention to eventually visit and photograph all of them.</p>
 
 <p>Thanks for visiting my page. I hope you enjoy it!</p>
 
