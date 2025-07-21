@@ -1,0 +1,35 @@
+
+body {
+  color: black;
+  background: #fbf2ff;
+}
+
+$indent: 1cm;
+
+p {
+  margin-left: $indent;
+  margin-right: $indent;
+}
+
+ul {
+  margin-left: $indent;
+}
+
+blockquote
+  { font-style: italic; }
+
+%place-name {
+  font-weight: bold;
+}
+
+span.road-name
+  { @extend %place-name; }
+
+span.town-name
+  { @extend %place-name; }
+
+span.other-name
+  { @extend %place-name; }
+
+/* I'm not sure how to best handle the notes section. */
+span.notes-entry-header { font-weight: bold; }
